@@ -1,0 +1,11 @@
+Tulis jawaban no 6 disini:
+NIM: 1600571
+NAMA: Rizal Muharam
+
+1. Belum menggunakan arraylist
+2. Untuk adegan meja seharusnya dapat dibuat clas adeganmeja sendiri tidak langsung memakai adegan
+3. Tidak ada methode penghapusan barang yang sudah dipakai
+4. Methode penggunaan barang seharusnya terdapat pemeriksaan akan apakah barang itu masih perlu dipakai atau tidak, dan jika ada
+    barang yang dapat di pakai disuatu tempat tidak bisalebih dari satu karena set penggunaan barangnya apapun barangnya langsung membuka kunci
+5. Karena banyaknya barang mungkin bisa dibuat clas turunan dari barang, sehingga barang tersebut seperti obeng dapat mempunyai kelas sendiri
+    makanan pun dapat mempunyai kelas sendiri dengan efek tertentu
